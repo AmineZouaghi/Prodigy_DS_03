@@ -14,7 +14,7 @@ This repository contains the implementation of a **decision tree classifier** bu
    - **Previous Contact**: Customers previously contacted are more likely to subscribe.
    - **Age**: Middle-aged customers (30-45) are more likely to subscribe.
    - **Job Type**: Certain job sectors show a higher likelihood of subscription.
-3. **Model Performance**: The decision tree classifier achieved an **accuracy of 89.5%**.
+3. **Model Performance**: The decision tree classifier achieved an **accuracy of 71%**.
 
 ## 🤝 Connect with Me
 [LinkedIn: Mohamed Amine Zouaghi](https://www.linkedin.com/in/mohamed-amine-zouaghi-500210225/)
